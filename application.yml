@@ -3,4 +3,4 @@ server:
 
 
 env-values:
-  auth-token: 3366
+  auth-token: 12345
