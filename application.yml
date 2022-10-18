@@ -1,6 +1,2 @@
-server:
-  port: 8821
-
-
 env-values:
   auth-token: 567890
